@@ -1,0 +1,13 @@
+{
+  "name": "learning-travisci-dundivet",
+  "description": "Simple Travis-CI check for JSHint (Code Linting)",
+  "author": "Carlos J. Infante Ramos<dundivet@gmail.com>",
+  "version": "0.0.1",
+  "devDependencies": {
+    "jshint": "^2.6.0"
+  },
+  "scripts": {
+    "test": "jshint hello.js"
+  }
+}
+
