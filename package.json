@@ -4,10 +4,9 @@
   "author": "Carlos J. Infante Ramos<dundivet@gmail.com>",
   "version": "0.0.1",
   "devDependencies": {
-    "jshint": "^2.6.0"
+    "jshint": "^2.9.6"
   },
   "scripts": {
     "test": "jshint hello.js"
   }
 }
-
